@@ -75,7 +75,7 @@ return (
       {/* Front Side of the Coin (No extra padding to prevent square borders) */}
       <div className="w-full h-full rounded-full overflow-hidden backface-hidden">
         <img
-          src="public/Capture.PNG"
+          src="./Capture.PNG"
           alt="Logo"
           className="w-full h-full object-cover"
         />
