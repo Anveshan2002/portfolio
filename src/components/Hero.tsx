@@ -196,7 +196,7 @@ export default function Hero() {
 
           {/* Updated Resume Download Button */}
           <a
-            href="/Anveshan_John_Parichha_Resume.pdf"
+            href="./Anveshan_John_Parichha_Resume.pdf"
             download="Anveshan_John_Parichha_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
