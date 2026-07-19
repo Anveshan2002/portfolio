@@ -743,7 +743,7 @@ export default function Footer() {
               {/* Inner Round Mask Canvas */}
               <div className="relative w-full h-full rounded-full overflow-hidden bg-zinc-900/90 flex items-center justify-center z-10 shadow-inner">
                 <img
-                  src="public/photo.PNG" 
+                  src="./photo.PNG" 
                   alt="Anveshan John Parichha Profile"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   onError={(e) => {
