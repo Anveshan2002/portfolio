@@ -1,4 +1,4 @@
-# Michael Smith — Portfolio Landing Page
+# Anveshan Parichha — Portfolio Landing Page
 
 Single-page dark portfolio built with React + Vite + TypeScript + Tailwind CSS + GSAP + Framer Motion + hls.js.
 
